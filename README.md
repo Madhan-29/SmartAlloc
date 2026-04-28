@@ -369,20 +369,3 @@ SmartAlloc contributes to the following SDGs:
 | **SDG 11** — Sustainable Cities | Building resilient community response systems |
 | **SDG 17** — Partnerships | Enabling NGO-volunteer coordination at scale |
 
----
-
-## 👥 Team
-
-Built for the **Google Solution Challenge 2026**.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  <b>SmartAlloc</b> — Turning fragmented information into immediate, localized action. 🚀
-</p>
